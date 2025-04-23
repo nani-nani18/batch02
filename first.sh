@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "good evening"
+echo "good morning"
 
